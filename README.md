@@ -1,6 +1,6 @@
 **Bem-vindo ao Meu Perfil no GitHub**
 
-Olá! Meu nome é Lucas, e sou cientista da computacao focado em dados e desenvolvimento. Estou aqui para divulgar minhas experiencias!
+Olá! Meu nome é Lucas, e sou Cientista da Computação focado em dados e desenvolvimento. Estou aqui para divulgar minhas experiencias!
 
 **Sobre Mim**
 
@@ -20,23 +20,23 @@ Habilidades e Tecnologias
 
 📱 Java - Intermediário
 
-📱
+📱 C++ - Intermediário
 
-📱 PowerBI - Intermediário
+📱 HTML - Intermediário
 
-🌐 Desenvolvimento Web:  ![image](https://github.com/LucasB712/LucasB712/assets/93289129/10bbad8b-f28d-4f46-934b-65663a001261)   
-![image](https://github.com/LucasB712/LucasB712/assets/93289129/8d55a0fe-2c23-43fb-9f25-2807e1cd2d88) 
-![image](https://github.com/LucasB712/LucasB712/assets/93289129/ec6cb157-f862-4521-ac12-c919b3c8042a)
+📱 Banco de dados SQL - Intermediário
+
+📱 Python - Intermediário
+
+📱 Analise de dados - Intermediario
+
+📱 IA - Intermediário
 
 
 ⚙️ Outras Habilidades: Algoritmos e estruturas de dados
 
 Projetos Destacados
 
-Hackathon IDP: Software para Aprendizado educacional de matemática para 3°Série.
-
-Entre em Contato
-
-Email: lvbarreto46@gmail.com
+Hackathon IDP: Software para Aprendizado educacional de matemática para 3°Série
 
 Obrigado por visitar o meu perfil! Fique à vontade para explorar meus projetos e entrar em contato.
