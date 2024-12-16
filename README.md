@@ -4,15 +4,11 @@ Olá! Meu nome é Lucas, e sou Cientista da Computação focado em dados e desen
 
 **Sobre Mim**
 
-🌍 Localização: Brasília-Brasil
-
 💼 Ocupação: Cientista da Computação
 
 🌱 Atualmente: 
 
 👯 Procurando Colaborar em: Desenvolvimento de novas tecnologias
-
-💬 Me pergunte sobre: Análise de Dados, Java e tudo o que você precisar!
 
 ⚡ Curiosidade: Toco violão e pandeiro
 
