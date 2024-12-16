@@ -16,25 +16,6 @@ Olá! Meu nome é Lucas, e sou Cientista da Computação focado em dados e desen
 
 ⚡ Curiosidade: Toco violão e pandeiro
 
-Habilidades e Tecnologias
-
-📱 Java - Intermediário
-
-📱 C++ - Intermediário
-
-📱 HTML - Intermediário
-
-📱 Banco de dados SQL - Intermediário
-
-📱 Python - Intermediário
-
-📱 Analise de dados - Intermediario
-
-📱 IA - Intermediário
-
-
-⚙️ Outras Habilidades: Algoritmos e estruturas de dados
-
 Projetos Destacados
 
 Hackathon IDP: Software para Aprendizado educacional de matemática para 3°Série
