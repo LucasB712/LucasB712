@@ -39,7 +39,7 @@ Se você quiser contribuir para algum dos meus projetos ou se quiser trabalhar e
 
 Você pode me encontrar no Linkedin:
 
-- 💼 [LinkedIn](https://br.linkedin.com/in/lucas-barreto-31017227b)
+- 💼 [LinkedIn](https://linkedin.com/in/lucas-barreto-31017227b)
 
 
 ## Estatísticas do GitHub
