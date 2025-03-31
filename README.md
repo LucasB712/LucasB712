@@ -1,19 +1,52 @@
-**Bem-vindo ao Meu Perfil no GitHub**
+# Olá, eu sou Lucas Barreto 👋
 
-Olá! Meu nome é Lucas, e sou Cientista da Computação focado em dados e desenvolvimento. Estou aqui para divulgar minhas experiencias!
+Bem-vindo ao meu perfil no GitHub! Aqui você vai encontrar projetos nos quais estou trabalhando, minha jornada de aprendizado e muito mais.
 
-**Sobre Mim**
+## Sobre mim (FULL STACK)
 
-💼 Ocupação: Cientista da Computação
+🔭 Atualmente estou trabalhando em: Procurando Estágio  
+🌱 Estou aprendendo: [Tecnologias ou áreas que você está explorando atualmente]  
+👯 Procurando colaborar em: aplicações Web e Inteligencia Artificial  
+💬 Pergunte-me sobre: Python e Linux  
+📫 Como me encontrar: [Seu e-mail ou outra forma de contato]  
+⚡ Curiosidade: [Algo interessante sobre você, pode ser hobby, algo relacionado ao seu trabalho ou até uma curiosidade pessoal]  
 
-🌱 Atualmente: 
+## Tecnologias e Ferramentas
 
-👯 Procurando Colaborar em: Desenvolvimento de novas tecnologias
+Aqui estão algumas das tecnologias com as quais trabalho e estou aprendendo:
 
-⚡ Curiosidade: Toco violão e pandeiro
+- 🌐 Front-end: HTML, CSS, JavaScript, React
+- 🖥️ Back-end: Python, C, C++, Java, ShellScript
+- 🛠️ Ferramentas: Git, GitHub, Docker, VSCode
+- 💾 Banco de Dados: MySQL, MongoDB
 
-Projetos Destacados
+## Projetos
 
-Hackathon IDP: Software para Aprendizado educacional de matemática para 3°Série
+Aqui estão alguns dos meus projetos mais recentes:
 
-Obrigado por visitar o meu perfil! Fique à vontade para explorar meus projetos e entrar em contato.
+-Hackathon 3ºedição IDP
+-Hackathon 4ºedição IDP
+
+- [Projeto 1](https://github.com/) - Descrição breve sobre o projeto.
+- [Projeto 2](https://github.com/seunome/projeto2) - Descrição breve sobre o projeto.
+- [Projeto 3](https://github.com/seunome/projeto3) - Descrição breve sobre o projeto.
+
+## Contribuições
+
+Se você quiser contribuir para algum dos meus projetos ou se quiser trabalhar em algo juntos, fique à vontade para me mandar uma mensagem ou abrir um pull request!
+
+## Contato
+
+Você pode me encontrar no Linkedin:
+
+- 💼 [LinkedIn](https://br.linkedin.com/in/lucas-barreto-31017227b)
+
+
+## Estatísticas do GitHub
+
+Aqui estão algumas estatísticas sobre minha atividade no GitHub:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasB712&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+[GitHub](https://github.com/LucasB712)
+
