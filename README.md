@@ -8,8 +8,8 @@ Bem-vindo ao meu perfil no GitHub! Aqui você vai encontrar projetos nos quais e
 🌱 Estou aprendendo: [Tecnologias ou áreas que você está explorando atualmente]  
 👯 Procurando colaborar em: aplicações Web e Inteligencia Artificial  
 💬 Pergunte-me sobre: Python e Linux  
-📫 Como me encontrar: [Seu e-mail ou outra forma de contato]  
-⚡ Curiosidade: [Algo interessante sobre você, pode ser hobby, algo relacionado ao seu trabalho ou até uma curiosidade pessoal]  
+📫 Como me encontrar: 💼 [LinkedIn](https://linkedin.com/in/lucas-barreto-31017227b)  
+⚡ Curiosidade: Toco Violão e Pandeiro 
 
 ## Tecnologias e Ferramentas
 
@@ -36,11 +36,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 Se você quiser contribuir para algum dos meus projetos ou se quiser trabalhar em algo juntos, fique à vontade para me mandar uma mensagem ou abrir um pull request!
 
-## Contato
 
-Você pode me encontrar no Linkedin:
-
-- 💼 [LinkedIn](https://linkedin.com/in/lucas-barreto-31017227b)
 
 
 ## Estatísticas do GitHub
