@@ -27,7 +27,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 -Hackathon 3ºedição IDP
 -Hackathon 4ºedição IDP
 
-- [Projeto 1](https://github.com/) - Descrição breve sobre o projeto.
+- [Projeto 1](https://github.com/LucasB712/Cafeteria_Selenium/) - Página de Cafeteria feita com Bootstrap 5
 - [Projeto 2](https://github.com/seunome/projeto2) - Descrição breve sobre o projeto.
 - [Projeto 3](https://github.com/seunome/projeto3) - Descrição breve sobre o projeto.
 
