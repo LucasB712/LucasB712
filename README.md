@@ -26,11 +26,13 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 **-Hackathon 3ºedição IDP**
 
+
 **-Hackathon 4ºedição IDP**
+
 
 - [Cafeteria Serenatto](https://github.com/LucasB712/Cafeteria_Selenium/) - Página de Cafeteria feita com Bootstrap 5
 - [Monitoramento_Logs_ScriptBash](https://github.com/LucasB712/Monitorar_Logs_ShellScript) - Monitoramento de Logs com ShellScript
-- [Projeto 3](https://github.com/seunome/projeto3) - Descrição breve sobre o projeto.
+- [Meteora](https://github.com/LucasB712/Site_Meteora-Bootstrap5) - Descrição breve sobre o projeto.
 
 ## Contribuições
 
