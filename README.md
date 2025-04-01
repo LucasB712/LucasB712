@@ -41,11 +41,5 @@ Se você quiser contribuir para algum dos meus projetos ou se quiser trabalhar e
 
 
 
-## Estatísticas do GitHub
 
-Aqui estão algumas estatísticas sobre minha atividade no GitHub:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasB712&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
-[GitHub](https://github.com/LucasB712)
 
