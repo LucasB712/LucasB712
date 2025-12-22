@@ -13,8 +13,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você vai encontrar projetos nos quais e
 </div>
 
 ## Sobre mim (FULL STACK)
-
-🔭 Atualmente estou trabalhando em: Procurando Estágio  
+  
 🌱 Estou aprendendo: [Tecnologias ou áreas que você está explorando atualmente]  
 👯 Procurando colaborar em: aplicações Web e Inteligencia Artificial  
 💬 Pergunte-me sobre: Python e Linux  
