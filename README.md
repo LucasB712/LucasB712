@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você vai encontrar projetos nos quais e
 
 ## Sobre mim (FULL STACK)
   
-🌱 Estou aprendendo: [Tecnologias ou áreas que você está explorando atualmente]  
+🌱 Estou aprendendo: Redis e PostgreSQL
 👯 Procurando colaborar em: aplicações Web e Inteligencia Artificial  
 💬 Pergunte-me sobre: Python e Linux  
 📫 Como me encontrar: 💼 [LinkedIn](https://linkedin.com/in/lucas-barreto-31017227b)  
@@ -28,11 +28,6 @@ Aqui estão algumas das tecnologias com as quais trabalho e estou aprendendo:
 ## Projetos
 
 Aqui estão alguns dos meus projetos mais recentes:
-
-**-Hackathon 3ºedição IDP**
-
-
-**-Hackathon 4ºedição IDP**
 
 
 - [Cafeteria Serenatto](https://github.com/LucasB712/Cafeteria_Selenium/) - Página de Cafeteria feita com Bootstrap 5
